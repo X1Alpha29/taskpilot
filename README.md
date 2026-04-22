@@ -1,10 +1,10 @@
-# 🚀 TaskPilot
+TaskPilot
 
 A full-stack SaaS task management application with AI-powered features.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🔐 Authentication (Register / Login with JWT)
 - 📁 Project management
@@ -19,7 +19,7 @@ A full-stack SaaS task management application with AI-powered features.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React (Vite)
@@ -32,7 +32,7 @@ A full-stack SaaS task management application with AI-powered features.
 - JWT Authentication
 
 ### AI Integration
-- OpenAI API
+- Grok AI API
 
 ---
 
